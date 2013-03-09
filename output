@@ -1,0 +1,24 @@
+All Tublins
+0 Drosophila melanogaster
+1 Schistosoma mansoni
+2 Zea mays
+3 Rattus norvegicus
+4 Homo sapiens
+
+Edit Distances
+0-1: 130
+0-2: 167
+0-3: 44
+0-4: 52
+1-2: 217
+1-3: 124
+1-4: 130
+2-3: 155
+2-4: 159
+3-4: 8
+
+Closest
+3-4: 8
+
+Farthest
+1-2: 217
